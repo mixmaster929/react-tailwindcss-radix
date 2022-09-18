@@ -33,6 +33,9 @@ yarn add tailwindcss-radix
 
 To prevent a possible future name clashing the `skipAttributeNames` option has been removed. In case you used this option, please update the class names accordingly.
 
+
+
+
 ## Demo
 
 Click on the banner to check out the demo components. You can find the code inside the [demo](https://github.com/ecklf/tailwindcss-radix/tree/main/demo) folder.
